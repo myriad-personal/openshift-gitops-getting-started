@@ -8,4 +8,4 @@ spec:
   text: Red Hat Developer Blog - Kubernetes
   applicationMenu:
     section: Kubernetes Blogs
-    imageURL: https://github.com/myriad-personal/openshift-gitops-getting-started/blob/main/images/smile.png
+    imageURL: https://openshift-gitops-server-openshift-gitops.apps.tst.openshift.myriad.com/assets/images/logo.png
